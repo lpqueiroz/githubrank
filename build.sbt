@@ -1,4 +1,4 @@
-name := """play-scala-seed"""
+name := """githubrank"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
