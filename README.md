@@ -21,6 +21,3 @@ Example Response
   "contributions": 237888
 ```
 
-## Endpoints for you to test:
-
-### /org/engineyard/contributors
